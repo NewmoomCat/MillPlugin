@@ -3,3 +3,6 @@
 .idea/
 out/
 *.iml
+
+# Bug File
+mill.*
