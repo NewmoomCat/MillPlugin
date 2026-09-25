@@ -1,6 +1,8 @@
-# BSP or IDEA
+# BSP or IDEs
 .bsp/
 .idea/
+.vscode/
+.metals/
 out/
 *.iml
 

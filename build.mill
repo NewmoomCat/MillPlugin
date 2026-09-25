@@ -19,7 +19,7 @@ object MillPlugin extends JavaModule with PublishModule {
 
   def pomSettings = PomSettings(
     description = "A Bukkit Plugin build by Mill",
-    organization = "cn.xinyue_neko.millplugin",
+    organization = "cn.xinyue-neko.millplugin",
     url = "https://github.com/NewmoomCat/MillPlugin",
     licenses = Seq(License.`GPL-3.0-or-later`),
     versionControl = VersionControl.github("NewmoomCat", "MillPlugin"),
