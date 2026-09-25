@@ -6,7 +6,7 @@ repositories:
  - https://hub.spigotmc.org/nexus/content/groups/public/
  - https://oss.sonatype.org/content/repositories/snapshots
 
-mvnDeps:
+compileMvnDeps:
  - org.spigotmc:spigot-api:1.21-R0.1-SNAPSHOT
 
 jvmVersion: 21
