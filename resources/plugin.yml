@@ -1,0 +1,4 @@
+main: cn.xinyue_neko.millplugin.Main
+name: MillPlugin
+description: A Bukkit plugin build by Mill
+version: 1.0.0

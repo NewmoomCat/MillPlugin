@@ -1,0 +1,5 @@
+# BSP or IDEA
+.bsp/
+.idea/
+out/
+*.iml
