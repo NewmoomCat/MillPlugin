@@ -19,7 +19,7 @@ publishVersion: 1.0.0
 
 pomSettings:
   description: "A Bukkit Plugin built by Mill"
-  organization: cn.xinyue_neko.millplugin
+  organization: cn.xinyue-neko.millplugin
   url: "https://github.com/NewmoomCat/MillPlugin"
   licenses: [GPL-3.0-or-later]
   versionControl: "https://github.com/NewmoomCat/MillPlugin"
