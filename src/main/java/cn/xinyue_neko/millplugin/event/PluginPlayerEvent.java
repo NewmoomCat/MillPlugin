@@ -1,4 +1,4 @@
-package cn.xinyue_neko.millplugin.event;
+package main.java.cn.xinyue_neko.millplugin.event;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

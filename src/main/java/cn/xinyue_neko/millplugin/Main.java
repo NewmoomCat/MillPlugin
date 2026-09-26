@@ -1,8 +1,9 @@
-package cn.xinyue_neko.millplugin;
-
-import cn.xinyue_neko.millplugin.event.PluginPlayerEvent;
+package main.java.cn.xinyue_neko.millplugin;
 
 import org.bukkit.plugin.java.JavaPlugin;
+
+import main.java.cn.xinyue_neko.millplugin.event.PluginPlayerEvent;
+
 import org.bukkit.ChatColor;
 
 public class Main extends JavaPlugin {

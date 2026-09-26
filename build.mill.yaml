@@ -1,0 +1,26 @@
+mill-version: 1.1.9
+
+extends: [JavaModule, PublishModule]
+
+repositories:
+  - https://hub.spigotmc.org/nexus/content/groups/public/
+  - https://oss.sonatype.org/content/repositories/snapshots
+
+compileMvnDeps:
+  - org.spigotmc:spigot-api:1.21-R0.1-SNAPSHOT
+
+jvmVersion: 21
+
+sources: [src/main/java/]
+resources: [src/main/resources]
+
+artifactName: MillPlugin
+publishVersion: 1.0.0
+
+pomSettings:
+  description: "A Bukkit Plugin built by Mill"
+  organization: cn.xinyue_neko.millplugin
+  url: "https://github.com/NewmoomCat/MillPlugin"
+  licenses: [GPL-3.0-only]
+  versionControl: "https://github.com/NewmoomCat/MillPlugin"
+  developers: [{ name: XinYueNeko, email: 3649745663@qq.com }]
