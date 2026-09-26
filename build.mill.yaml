@@ -21,6 +21,6 @@ pomSettings:
   description: "A Bukkit Plugin built by Mill"
   organization: cn.xinyue_neko.millplugin
   url: "https://github.com/NewmoomCat/MillPlugin"
-  licenses: [GPL-3.0-only]
+  licenses: [GPL-3.0-or-later]
   versionControl: "https://github.com/NewmoomCat/MillPlugin"
   developers: [{ name: XinYueNeko, email: 3649745663@qq.com }]

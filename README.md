@@ -7,5 +7,7 @@
 
 ```bash
 # 对项目感到有趣的肯定会去改项目名
-./mill clean YourPluginName.assemply
+./mill clean assemply
+
+cp out/assembly.dest/out.jar ./YourProjectName-YourProjectVersion.jar
 ```
